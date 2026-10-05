@@ -1,2 +1,2 @@
 def say_goodbye():
-    print("Goodbye")
+    print("Goodbye and thanks for all the fish!")
